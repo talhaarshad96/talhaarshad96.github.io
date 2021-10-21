@@ -1,0 +1,10 @@
+{
+  "simulation": "LLSSegmentationFilter",
+  "simulationId": "llssegmentationfilter",
+  "start": 1634727966136,
+  "description": "testInit",
+  "scenarios": ["LLSSegmentationFilter"],
+  "assertions": [
+
+  ]
+}
